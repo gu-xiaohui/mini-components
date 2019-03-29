@@ -1,0 +1,6 @@
+<navBar 
+    title-text="自定义导航栏" 
+    back-icon="/images/back@3x.png"
+    home-icon="/images/home_icon@3x.png"
+    background="#f2f2f2"
+    bindback="back"/>
