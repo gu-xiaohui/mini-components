@@ -1,8 +1,8 @@
 //app.js
+import page from './utils/page';
 App({
-  onLaunch: function () {
-    
-  },
-  globalData: {
-  }
+    onLaunch: function() {
+        Page = page;
+    },
+    globalData: {}
 })
